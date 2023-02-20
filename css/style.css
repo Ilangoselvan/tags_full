@@ -1,0 +1,28 @@
+body
+{background-color:pink;}
+
+.tag{
+	border: dotted green;
+	border-collapse: 50px brown;
+	margin: 10px;
+	padding: 10px;
+}
+	{
+		8.Aside tag
+	width: 50%;
+	padding-left: 15px;
+	float:right;
+	background-color: grey;
+	}
+	
+	#icon{
+		font-size:250px;
+	}
+.red{
+	border: dotted green;
+	border-collapse: 50px brown;
+	background-color:red;
+	color:white;
+	margin: 10px;
+	padding: 10px;
+}
